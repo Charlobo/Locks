@@ -1,0 +1,50 @@
+{
+	"itemGroup.locks": "锁",
+
+	"item.locks.spring": "弹簧",
+	"item.locks.wood_lock_mechanism": "木锁具结构",
+	"item.locks.iron_lock_mechanism": "铁锁具结构",
+	"item.locks.steel_lock_mechanism": "钢锁具结构",
+	"item.locks.wood_lock": "木锁",
+	"item.locks.iron_lock": "铁锁",
+	"item.locks.steel_lock": "钢锁",
+	"item.locks.gold_lock": "镀金锁",
+	"item.locks.diamond_lock": "镀钻石锁",
+	"item.locks.wood_lock_pick": "发夹撬锁器",
+	"item.locks.iron_lock_pick": "铁撬锁器",
+	"item.locks.steel_lock_pick": "钢撬锁器",
+	"item.locks.gold_lock_pick": "金撬锁器",
+	"item.locks.diamond_lock_pick": "钻石撬锁器",
+	"item.locks.key": "药水",
+	"item.locks.master_key": "万能钥匙,
+	"item.locks.key_blank": "钥匙模板",
+	"item.locks.key_ring": "钥匙环",
+
+	"enchantment.locks.shocking": "电击",
+	"enchantment.locks.shocking.desc": "电击撬锁失败的小偷",
+	"enchantment.locks.sturdy": "坚固",
+	"enchantment.locks.sturdy.desc": "减少锁具的强度",
+	"enchantment.locks.complexity": "复杂度",
+	"enchantment.locks.complexity.desc": "使得该锁过于复杂，无法用低级锁芯撬开。",
+
+	"death.attack.locks.shock": "%1$s was 因没能撬开一把附过魔的锁而被电击至死",
+	"death.attack.locks.shock.player": "%1$s 在焦头烂额地撬一把附过魔的锁时被电击至死 %2$s",
+
+	"locks.gui.lockpicking.title": "撬锁中",
+	"locks.gui.lockpicking.open": "按 `ESC` 打开",
+
+	"locks.subtitle.key_ring": "钥匙叮当声",
+	"locks.subtitle.lock.close": "锁咔哒声",
+	"locks.subtitle.lock.open": "钥匙在锁里转动",
+	"locks.subtitle.lock.rattle": "锁摇晃声",
+	"locks.subtitle.pin.fail": "插销空洞地响起",
+	"locks.subtitle.pin.match": "插销轻响",
+	"locks.subtitle.shock": "突然的电击声",
+
+	"locks.tooltip.id": "ID: %s",
+	"locks.tooltip.length":  "长度: %s",
+	"locks.tooltip.strength": "强度: %s",
+
+	"locks.status.locked": "这个方块被锁住了",
+	"locks.status.too_complex": "这个锁对这个开锁器来说太复杂了"
+}
